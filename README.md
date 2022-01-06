@@ -1,5 +1,7 @@
 # WHBoxProtector-
 An open source tool to obfuscate .NET assembly files. Use the dnlib library. This is a small tool, I made to protect my copyright, simple but effective.
+
+
 I used dnlib to write it out. (A little exercise). I used it for a while and stopped using it. However I still want to share it with friends, lovers. I believe, with this application and open source code will help you!
 
 
